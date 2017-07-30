@@ -50,7 +50,7 @@ Vol <- function(d, logrets)
 # Volatility with different decay values
 
 volest <- Vol(10,BAret)
-head(volest)
+
 
 
 volest2 <- Vol(30,BAret)
